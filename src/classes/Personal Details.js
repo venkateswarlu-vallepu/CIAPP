@@ -3,7 +3,7 @@ class PersonalDetails {
         console.log(`Personal Info`);
         this.fullName = "Venkateswarlu";
         this.surName = "Vallepu";
-        this.DOB = 06/09/1999;
+        this.DOB = "06/09/1999";
         this.gender = "Male";
     }
 
