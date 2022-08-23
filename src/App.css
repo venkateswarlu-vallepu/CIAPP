@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-image: url(https://thumbs.dreamstime.com/b/handwriting-text-me-myself-i-concept-meaning-used-speaker-to-refer-herself-as-object-verb-cardboard-which-162910397.jpg);
+}
+h1{
+  size: 3rem;
+  text-shadow: 4px 4px 4px grey;
+  border: 3px ridge black;
+  border-width: 30px;
+}
+h3 {
+  size: 1.5rem;
+  text-shadow: 2px 2px 2px grey;
+}
