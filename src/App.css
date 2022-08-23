@@ -44,8 +44,10 @@ h1{
   text-shadow: 4px 4px 4px grey;
   border: 3px groove whitesmoke;
   border-width: 20px;
+  color: white;
 }
 h3 {
   size: 1.5rem;
   text-shadow: 2px 2px 2px grey;
+  color: white;
 }
